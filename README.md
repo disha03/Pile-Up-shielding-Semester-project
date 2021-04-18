@@ -1,4 +1,4 @@
-# Introduction
+# Project Description
 
 Driving a car is a complex task, and it requires complete attention. Distracted driving is any activity
 that takes away the driver’s attention from the road. Several studies have identified three main types
