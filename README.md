@@ -17,8 +17,6 @@ libraries for extracting features in the training phase of the warning system
 
 ## Proposed Solution
 
-The proposed algorithm works in seven stages as described by Figure :
-Fig 1 Process flow of the proposed algorithm.
 To overcome the problem we came up with the solution implemented using OpenCV, DLib
 and other open source libraries . Python is used as a language to implement the idea.
 A web camera is used to continuously track the facial landmark and movement of eyes and
